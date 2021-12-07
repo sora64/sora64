@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning all sorts of things!
 - 💞️ I’m looking to collaborate on projects that will help me to improve as a programmer and web developer.
 - 📫 How to reach me: 
-  Phone: 252-796-7552
-  Email: phelpsa64@gmail.com
-  Portfolio: sora64.github.io/alan-phelps-portfolio/
+
+ *Phone: 252-796-7552
+  
+ *Email: phelpsa64@gmail.com
+  
+  *Portfolio: sora64.github.io/alan-phelps-portfolio/
 
 <!---
 sora64/sora64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
