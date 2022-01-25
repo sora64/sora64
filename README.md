@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sora64 (aka Alan Phelps).
 - 👀 I’m interested in web development, languages, video games, and reading interesting books.
 - 🌱 I’m currently learning all sorts of things!
-- 💞️ I’m looking to collaborate on projects that will help me to grow as a programmer and web developer.
+- 💞️ I’m looking to collaborate on projects that will help me to grow as a web developer.
 - 📫 How to reach me: 
 
       Phone: 252-796-7552
