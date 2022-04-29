@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sora64 (aka Alan Phelps).
 - 👀 I’m interested in web development, languages, video games, and reading interesting books.
 - 🌱 I’m currently learning all sorts of things through the Coding Bootcamp offered by the University of Richmond.
-- 💞️ I’m looking to collaborate on projects that will help me to grow as a web developer.
+- 💞 I’m looking to collaborate on projects that will help me grow as a web developer.
 - [Portfolio](https://sora64.github.io/phelps-portfolio-yes-indeed/)
 - 📫 How to reach me: 
 
