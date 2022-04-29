@@ -8,9 +8,9 @@
   
       Email: phelpsa64@gmail.com
   
-      Portfolio: https://sora64.github.io/phelps-portfolio-yes-indeed/
+      [Portfolio](https://sora64.github.io/phelps-portfolio-yes-indeed/)
       
-      Linkedin: https://www.linkedin.com/in/alan-phelps-43ab57b6
+      [Linkedin](https://www.linkedin.com/in/alan-phelps-43ab57b6)
 
 <!---
 sora64/sora64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
