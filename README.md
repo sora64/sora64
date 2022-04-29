@@ -8,7 +8,7 @@
   
       Email: phelpsa64@gmail.com
   
-      Portfolio: sora64.github.io/alan-phelps-portfolio/
+      Portfolio: https://sora64.github.io/phelps-portfolio-yes-indeed/
       
       Linkedin: https://www.linkedin.com/in/alan-phelps-43ab57b6
 
