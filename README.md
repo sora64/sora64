@@ -5,7 +5,7 @@
 - [Portfolio](https://sora64.github.io/phelps-portfolio-yes-indeed/)
 - 📫 How to reach me: 
 
-    - [Linkedin](https://www.linkedin.com/in/alan-phelps-43ab57b6)
+    - [LinkedIn](https://www.linkedin.com/in/alan-phelps-43ab57b6)
 
     - Phone: 252-796-7552  
 
