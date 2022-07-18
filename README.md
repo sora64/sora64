@@ -1,15 +1,12 @@
-- 👋 Hi, I’m @sora64 (aka Alan Phelps).
-- 👀 I’m interested in web development, languages, video games, and reading interesting books.
-- 🌱 I’m currently learning all sorts of things through the Coding Bootcamp offered by the University of Richmond.
-- 💞 I’m looking to collaborate on projects that will help me grow as a web developer.
-- [Portfolio](https://sora64.github.io/phelps-portfolio-yes-indeed/)
-- 📫 How to reach me: 
+# Summary
 
-    - [LinkedIn](https://www.linkedin.com/in/alan-phelps-43ab57b6)
+Full Stack Web Developer with a background in Education, Classics, and Linguistics. Efficient, and adept at problem solving to develop user-friendly applications. Known for breadth of knowledge, ability to explain information in understandable ways, and for enjoying challenges.
 
-    - Phone: 252-796-7552  
+# Technical Skills
 
-    - Email: [phelpsa64@gmail.com](mailto:phelpsa64@gmail.com)
+* Languages: JavaScript ES6+, CSS3, HTML5, SQL, NoSQL
+* Applications: GitHub, MongoDB, MySQL
+* Tools: Express.js, React.js, Node.js, Handlebars.js, jQuery, Bootstrap, Bulma
 
 <!---
 sora64/sora64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
