@@ -4,7 +4,7 @@ Full Stack Web Developer with a background in Education, Classics, and Linguisti
 
 # Technical Skills
 
-* Languages: JavaScript ES6+, CSS3, HTML5, SQL, NoSQL
+* Languages: JavaScript ES6+, CSS3, HTML5, SQL, NoSQL, Python
 * Applications: GitHub, MongoDB, MySQL
 * Tools: Express.js, React.js, Node.js, Handlebars.js, jQuery, Bootstrap, Bulma
 
