@@ -1,6 +1,6 @@
 # Summary
 
-Full Stack Web Developer with a background in Education, Classics, and Linguistics. Efficient, and adept at problem solving to develop user-friendly applications. Known for breadth of knowledge, ability to explain information in understandable ways, and for enjoying challenges.
+Experienced Full Stack Web Developer with a background in Education, Classics, and Linguistics. Efficient, and adept at problem solving to develop user-friendly applications. Known for breadth of knowledge, ability to explain information in understandable ways, and for enjoying challenges.
 
 # Technical Skills
 
